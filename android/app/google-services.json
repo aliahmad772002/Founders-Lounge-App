@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498826809944",
+    "project_id": "founders-lounge",
+    "storage_bucket": "founders-lounge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498826809944:android:1ace579f202a691be3b02d",
+        "android_client_info": {
+          "package_name": "com.founderlonge.fouders_longe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKkxa3OUZuHVvNAErAi8_MMP6TuQQAZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
